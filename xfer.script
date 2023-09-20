@@ -1,0 +1,3 @@
+open sftp://username:password@host/ -hostkey="ssh-rsa 4096 xxxxxxxxxxxxxxxxxxxxxxxx"
+synchronize local "E:\FTPRoot\folder" /
+exit
